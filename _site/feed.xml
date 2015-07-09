@@ -4,10 +4,10 @@
     <title>SinaMobile-前端开发</title>
     <description>手机新浪网-前端开发
 </description>
-    <link>http://MobileSina.github.io/wiki/wiki//</link>
-    <atom:link href="http://MobileSina.github.io/wiki/wiki//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Jul 2015 12:48:28 +0800</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2015 12:48:28 +0800</lastBuildDate>
+    <link>http://MobileSina.github.io/wiki/wiki/</link>
+    <atom:link href="http://MobileSina.github.io/wiki/wiki/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Jul 2015 12:49:38 +0800</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2015 12:49:38 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 09 Jul 2015 19:46:57 +0800</pubDate>
-        <link>http://MobileSina.github.io/wiki/wiki//jekyll/update/2015/07/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://MobileSina.github.io/wiki/wiki//jekyll/update/2015/07/09/welcome-to-jekyll.html</guid>
+        <link>http://MobileSina.github.io/wiki/wiki/jekyll/update/2015/07/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://MobileSina.github.io/wiki/wiki/jekyll/update/2015/07/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

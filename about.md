@@ -1,11 +1,15 @@
 ---
-layout: page
-title: About
+layout: post
+title:  关于我们
 permalink: /about/
+date: 2015-07-09 14:53:19
+no_duoshuo: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![](/wiki/images/html5_css_javascript.png)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+我们是一群热爱前端开发的小伙伴，专注于移动互联网与h5开发技术！
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+美女，大咖应有尽有，同样，我们的团队也期待有你的身影！
+
+长期招聘高级web前端开发工程师，简历请投递: fuqiang3#staff.sina.com.cn

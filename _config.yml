@@ -3,7 +3,7 @@ title: SinaMobile-前端开发
 email: fuqiang3@staff.com.cn
 description: > # this means to ignore newlines until "baseurl:"
   手机新浪网-前端开发
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/wiki/" # the subpath of your site, e.g. /blog/
 url: "http://MobileSina.github.io/wiki" # the base hostname & protocol for your site
 twitter_username: xiaojue
 github_username: MobileSina

@@ -2,9 +2,12 @@
 layout:     post
 title:      手浪前端技术博客成立啦!
 date:       2015-07-09 12:31:19
+img:        /wiki/images/cover.jpg
 summary:    手机新浪网前端开发团队Blog，在github pages安家了！
 categories: technology
 ---
+
+![](/wiki/images/cover.jpg)
 
 手机新浪网前端开发团队Blog，在github pages安家了！
 
